@@ -1,0 +1,94 @@
+body{
+    background-color: black;
+}
+
+.mastercontainer{
+    height: 420px;
+    width: 650px;
+    background-color: rgba(247, 251, 241, 0.9);
+    border: 1px black solid;
+    margin: 30px auto;
+    padding-top: 10px;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+/* Bangladesh */
+.container1{
+    height: 300px;
+    width: 500px;
+    background-color: #006951;
+    position: relative;
+    left: 70px;
+}
+.bangla{
+    height: 150px;
+    width: 150px;
+    background-color: #BE202A;
+    border-radius: 50%;
+    position: relative;
+    top: 70px;
+    left: 130px;
+}
+
+/* Belgium */
+.container2{
+    height: 300px;
+    width: 610px;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    left: 30px;
+}
+.black{
+    height: 300px;
+    width: 200px;
+    background-color: #231F20;
+    display: inline-block;
+}
+.yellow{
+    height: 300px;
+    width: 200px;
+    background-color: #FFF200;
+    display: inline-block;
+    position: relative;
+    left: -10px;
+}
+.red{
+    height: 300px;
+    width: 200px;
+    background-color: #ED1C24;
+    position: relative;
+    left: -14px;
+    display: inline-block;
+}
+
+/* Botswana */
+.container3{
+    height: 300px;
+    width: 500px;
+    background-color: white;
+    position: relative;
+    left: 70px;
+}
+.one{
+    height: 100px;
+    width: 500px;
+    background-color: #00BDF2;
+}
+.two{
+    height: 90px;
+    width: 500px;
+    background-color: #231F20;
+    border-top: 5px solid #FFFFFF;
+    border-bottom: 5px solid #FFFFFF;
+}
+.three{
+    height: 100px;
+    width: 500px;
+    background-color: #00BDF2;
+}
